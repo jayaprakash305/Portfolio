@@ -1,0 +1,189 @@
+{
+  "profile": {
+    "name": "Jaya Prakash V",
+    "title": "Frontend Developer",
+    "subtitle": "React.js · MERN Stack · JavaScript",
+    "tagline": "Available for opportunities",
+    "location": "Namakkal, Tamil Nadu, India",
+    "email": "jayaprakash944370@gmail.com",
+    "phone": "+91 94437 06900",
+    "linkedin": "https://linkedin.com/in/jaya-prakash-000736207",
+    "github": "https://github.com/jayaprakash305",
+    "about": "I'm a Results-driven Frontend Developer with hands-on experience building scalable web applications using React.js, JavaScript (ES6+), and the MERN Stack. Currently developing a real-time Movie Ticket Booking System at Nithra Apps.\n\nI'm passionate about performance, clean architecture, and building user-centric interfaces — from real-time seat locking systems to WebRTC-powered video calling platforms.",
+    "stats": [
+      {
+        "num": "2",
+        "suffix": "+",
+        "label": "Full-stack projects built"
+      },
+      {
+        "num": "1",
+        "suffix": "yr",
+        "label": "Professional experience"
+      },
+      {
+        "num": "79",
+        "suffix": "%",
+        "label": "B.E. CGPA — CSE"
+      },
+      {
+        "num": "10",
+        "suffix": "+",
+        "label": "Technologies mastered"
+      }
+    ]
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "name": "UI Development",
+      "tags": [
+        "React.js",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "JavaScript ES6+",
+        "Responsive Design"
+      ]
+    },
+    {
+      "category": "Backend",
+      "name": "Server & API",
+      "tags": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MVC Architecture"
+      ]
+    },
+    {
+      "category": "Real-Time",
+      "name": "Live Communication",
+      "tags": [
+        "Socket.IO",
+        "WebSocket",
+        "WebRTC",
+        "P2P Audio/Video"
+      ]
+    },
+    {
+      "category": "Database & Auth",
+      "name": "Data & Security",
+      "tags": [
+        "MongoDB",
+        "JWT Auth",
+        "RBAC",
+        "Database Design"
+      ]
+    },
+    {
+      "category": "Developer Tools",
+      "name": "Toolchain",
+      "tags": [
+        "Git",
+        "GitHub",
+        "Postman",
+        "VS Code",
+        "Vite"
+      ]
+    },
+    {
+      "category": "Performance",
+      "name": "Optimization",
+      "tags": [
+        "Code Splitting",
+        "Lazy Loading",
+        "Component Architecture",
+        "API Integration"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "num": "01",
+      "title": "Task Assigning Platform",
+      "link": "https://taskflow-azure-eight.vercel.app/login",
+      "badges": [
+        "MERN Stack",
+        "Socket.IO",
+        "WebRTC",
+        "JWT",
+        "Tailwind CSS"
+      ],
+      "desc": "Full-stack real-time collaboration platform with role-based dashboards for Admin, Manager, Lead & Employee roles.",
+      "highlights": [
+        "Real-time task & ticket management with live updates via Socket.IO WebSocket",
+        "WebRTC-based peer-to-peer audio/video calling for team communication",
+        "In-app messaging with emoji support, @mention tagging & file attachments",
+        "Granular RBAC across all user roles with JWT authentication",
+        "Dark-themed UI with React.js, Tailwind CSS & WebGL animations (OGL)"
+      ]
+    },
+    {
+      "num": "02",
+      "title": "Movie Ticket Booking System",
+      "link": "https://movie-ticket-frontend-inky.vercel.app/login",
+      "badges": [
+        "MERN Stack",
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js"
+      ],
+      "desc": "Scalable full-stack movie booking platform with separate dashboards for user, admin & partner roles and real-time seat locking.",
+      "highlights": [
+        "Real-time seat locking mechanism to eliminate duplicate bookings",
+        "Secure JWT-based authentication with granular role-based access control",
+        "Fully responsive UI with React.js and Tailwind CSS for all devices",
+        "Efficient MongoDB schema design for bookings, seats & users"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "date": "Feb 2026 — Present",
+      "role": "Frontend Developer Intern",
+      "company": "Nithra Apps, Tamil Nadu",
+      "points": [
+        "Developed a scalable full-stack MERN Stack web application for a real-time movie ticket booking platform.",
+        "Designed and implemented fully responsive UI using React.js and Tailwind CSS, ensuring cross-device compatibility.",
+        "Implemented JWT-based authentication and Role-Based Access Control (RBAC) for user, admin, and partner roles.",
+        "Optimized frontend performance through code splitting, lazy loading & reusable component architecture."
+      ]
+    },
+    {
+      "date": "Jul 2024 — Sep 2025",
+      "role": "CEPS Agent (Consumer Electronics)",
+      "company": "AlldigiTech Limited",
+      "points": [
+        "Monitored & analyzed agent calls to ensure accurate troubleshooting and process adherence.",
+        "Conducted technical training sessions to reduce NPU and improve resolution quality.",
+        "Tracked performance & NPU reports to identify trends and areas of improvement.",
+        "Previously worked as Level One AV Agent — 9 months handling Television & Soundbar support."
+      ]
+    },
+    {
+      "date": "3 Months",
+      "role": "Multi-Tasking Agent (MTA)",
+      "company": "AlldigiTech Limited",
+      "points": [
+        "Executed client-based data projects with timely and accurate delivery.",
+        "Managed & validated data using Microsoft Excel with VLOOKUP, Pivot Tables & Charts."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "type": "Degree",
+      "name": "B.E. — Computer Science & Engineering",
+      "institution": "Al-Ameen Engineering College, Tamil Nadu",
+      "detail": "CGPA: 79%"
+    },
+    {
+      "type": "Certification",
+      "name": "Python for Everybody",
+      "institution": "Coursera — University of Michigan",
+      "detail": "Verified Certificate"
+    }
+  ]
+}
