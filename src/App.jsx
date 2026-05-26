@@ -12,7 +12,6 @@ import { useScrollReveal } from './hooks/useScrollReveal';
 
 export default function App() {
   const { data, loading } = usePortfolioData();
-  useScrollReveal();
 
   if (loading || !data) {
     return (
@@ -22,6 +21,11 @@ export default function App() {
     );
   }
 
+  return <PortfolioContent data={data} />;
+}
+
+function PortfolioContent({ data }) {
+  useScrollReveal();
   const { profile, skills, projects, experience, education } = data;
 
   return (
